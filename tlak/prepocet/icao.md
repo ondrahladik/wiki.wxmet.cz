@@ -2,7 +2,7 @@
 title: ICAO - standardní atmosféra
 description: 
 published: true
-date: 2026-08-05T09:41:34.134Z
+date: 2026-08-05T09:41:42.484Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-05T09:05:22.164Z
@@ -21,6 +21,10 @@ Na rozdíl od metod využívajících skutečnou teplotu atmosféry předpoklád
 Díky těmto předpokladům je možné jednoduše přepočítat absolutní tlak naměřený na stanici na tlak redukovaný na hladinu moře.
 
 ## Rovnice
+
+$$
+p_0=\frac{p}{\left(1-\frac{h}{44330}\right)^{5.255}}
+$$
 
 kde:
 
