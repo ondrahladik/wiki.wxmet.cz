@@ -2,7 +2,7 @@
 title: ICAO - standardní atmosféra
 description: 
 published: true
-date: 2026-08-05T09:57:53.600Z
+date: 2026-08-05T15:14:24.528Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-05T09:05:22.164Z
@@ -34,7 +34,7 @@ kde:
 | **p** | naměřený absolutní tlak (Pa nebo hPa) |
 | **h** | nadmořská výška stanice (m) |
 
-### Konstanty
+Konstanty:
 
 | Konstanta | Hodnota | Význam |
 |-----------|---------:|--------|
