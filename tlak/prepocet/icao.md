@@ -2,7 +2,7 @@
 title: ICAO - standardní atmosféra
 description: 
 published: true
-date: 2026-08-05T09:08:07.105Z
+date: 2026-08-05T09:12:11.130Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-05T09:05:22.164Z
@@ -22,9 +22,9 @@ Díky těmto předpokladům je možné jednoduše přepočítat absolutní tlak 
 
 ## Rovnice
 
-\[
-p_0=\frac{p}{\left(1-\frac{h}{44330}\right)^{5,255}}
-\]
+$$
+p_0=\frac{p}{\left(1-\frac{h}{44330}\right)^{5.255}}
+$$
 
 kde:
 
@@ -43,29 +43,21 @@ kde:
 
 ## Výhody
 
-- velmi jednoduchý výpočet,
-- nevyžaduje měření teploty,
-- minimální výpočetní náročnost,
-- široce používaný v letectví.
+- velmi jednoduchý výpočet
+- nevyžaduje měření teploty
+- minimální výpočetní náročnost
+- široce používaný v letectví
 
 ## Nevýhody
 
-- nezohledňuje skutečnou teplotu vzduchu,
-- nezohledňuje vlhkost vzduchu,
-- při nestandardních meteorologických podmínkách může vykazovat odchylky.
+- nezohledňuje skutečnou teplotu vzduchu
+- nezohledňuje vlhkost vzduchu
+- při nestandardních meteorologických podmínkách může vykazovat odchylky
 
 ## Použití
 
 Metoda ICAO se používá především:
 
-- v letectví,
-- u jednodušších meteostanic,
-- ve vestavěných barometrických senzorech,
-- v knihovnách pro senzory BMP180, BMP280, BME280 a BMP390.
-
-## Související články
-
-- [[Hydrostatická rovnice]]
-- [[Barometrická rovnice]]
-- [[Barometrická rovnice s aktuální teplotou]]
-- [[QNH]]
+- v letectví
+- u jednodušších meteostanic
+- ve vestavěných barometrických senzorech
