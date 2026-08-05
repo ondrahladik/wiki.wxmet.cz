@@ -2,7 +2,7 @@
 title: Přepočet tlaku na hladinu moře
 description: 
 published: true
-date: 2026-08-05T10:07:32.719Z
+date: 2026-08-05T10:25:42.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-04T21:23:46.400Z
@@ -16,6 +16,16 @@ Existuje několik metod přepočtu, které se liší použitými fyzikálními p
 
 Tato sekce slouží jako rozcestník jednotlivých metod a referenčních tlaků.
 
+## Teoretické základy
+
+Před studiem jednotlivých metod doporučujeme seznámit se také se základními fyzikálními principy, ze kterých většina výpočtů vychází.
+
+| Referenční tlak | Stručný popis |
+|-----------------|---------------|
+| Hydrostatická rovnice |         |
+| Barometrická rovnice  |         |
+| Hypsometrická rovnice |         |
+
 ## Metody přepočtu
 
 | Metoda | Stručný popis |
@@ -28,10 +38,3 @@ Tato sekce slouží jako rozcestník jednotlivých metod a referenčních tlaků
 |-----------------|---------------|
 | *(bude doplněno)* | |
 
-## Teoretické základy
-
-Před studiem jednotlivých metod doporučujeme seznámit se také se základními fyzikálními principy, ze kterých většina výpočtů vychází.
-
-- [[Hydrostatická rovnice]]
-- [[Barometrická rovnice]]
-- [[Hypsometrická rovnice]]
