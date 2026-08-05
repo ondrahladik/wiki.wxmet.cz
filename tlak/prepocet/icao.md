@@ -2,7 +2,7 @@
 title: ICAO - standardní atmosféra
 description: 
 published: true
-date: 2026-08-05T09:12:11.130Z
+date: 2026-08-05T09:29:15.694Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-05T09:05:22.164Z
@@ -10,7 +10,7 @@ dateCreated: 2026-08-05T09:05:22.164Z
 
 # ICAO - standardní atmosféra
 
-Standardní atmosféra ICAO (International Civil Aviation Organization) je mezinárodně definovaný model zemské atmosféry používaný především v letectví. Stanovuje referenční hodnoty tlaku, teploty a hustoty vzduchu a slouží jako základ pro přepočet atmosférického tlaku na hladinu moře.
+Standardní atmosféra **ICAO (International Civil Aviation Organization)** je mezinárodně definovaný model zemské atmosféry používaný především v letectví. Stanovuje referenční hodnoty tlaku, teploty a hustoty vzduchu a slouží jako základ pro přepočet atmosférického tlaku na hladinu moře.
 
 Na rozdíl od metod využívajících skutečnou teplotu atmosféry předpokládá standardní atmosféra pevně definované podmínky:
 
@@ -56,8 +56,4 @@ kde:
 
 ## Použití
 
-Metoda ICAO se používá především:
-
-- v letectví
-- u jednodušších meteostanic
-- ve vestavěných barometrických senzorech
+Tento vzorec se používá především u jednodušších meteostanic, vestavěných barometrů a meteorologických aplikací, kde není k dispozici aktuální teplota vzduchu nebo není vyžadována maximální přesnost přepočtu.
