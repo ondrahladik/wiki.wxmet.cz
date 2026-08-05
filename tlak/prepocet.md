@@ -2,7 +2,7 @@
 title: Přepočet tlaku na hladinu moře
 description: 
 published: true
-date: 2026-08-05T10:06:43.604Z
+date: 2026-08-05T10:07:32.719Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-04T21:23:46.400Z
@@ -20,7 +20,7 @@ Tato sekce slouží jako rozcestník jednotlivých metod a referenčních tlaků
 
 | Metoda | Stručný popis |
 |---------|---------------|
-| [[ICAO – standardní atmosféra]] | Přepočet podle standardní atmosféry ICAO bez zohlednění aktuální teploty. |
+|[ICAO – standardní atmosféra](/tlak/prepocet/icao) | Přepočet podle standardní atmosféry ICAO bez zohlednění aktuální teploty. |
 
 ## Referenční tlaky
 
