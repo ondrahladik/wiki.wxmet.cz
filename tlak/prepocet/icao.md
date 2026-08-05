@@ -2,7 +2,7 @@
 title: ICAO - standardní atmosféra
 description: 
 published: true
-date: 2026-08-05T09:30:47.080Z
+date: 2026-08-05T09:32:02.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-05T09:05:22.164Z
@@ -24,6 +24,10 @@ Díky těmto předpokladům je možné jednoduše přepočítat absolutní tlak 
 
 $$
 p_0=\frac{p}{\left(1-\frac{h}{44330}\right)^{5.255}}
+$$
+
+$$
+E = mc^2
 $$
 
 kde:
