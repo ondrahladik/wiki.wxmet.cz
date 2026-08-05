@@ -2,7 +2,7 @@
 title: Přepočet tlaku na hladinu moře
 description: 
 published: true
-date: 2026-08-05T10:45:56.484Z
+date: 2026-08-05T10:48:11.694Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-04T21:23:46.400Z
@@ -14,7 +14,7 @@ Atmosférický tlak se s rostoucí nadmořskou výškou snižuje. Aby bylo možn
 
 Existuje několik metod přepočtu, které se liší použitými fyzikálními předpoklady, vstupními veličinami i přesností výsledku. Kromě samotných metod se používají také různé referenční tlaky, jejichž význam závisí na konkrétní oblasti použití, například v meteorologii nebo letectví.
 
-Tato sekce slouží jako rozcestník jednotlivých metod a referenčních tlaků.
+Tato stránka poskytuje přehled metod přepočtu, referenčních tlaků a souvisejících fyzikálních principů.
 
 ## Teoretické základy
 
@@ -22,9 +22,9 @@ Před studiem jednotlivých metod doporučujeme seznámit se také se základní
 
 | Název           | Stručný popis |
 |-----------------|---------------|
-| Hydrostatická rovnice |         |
-| Barometrická rovnice  |         |
-| Hypsometrická rovnice |         |
+| Hydrostatická rovnice | Popisuje změnu tlaku v závislosti na výšce v gravitačním poli. |
+| Barometrická rovnice  | Umožňuje vypočítat změnu atmosférického tlaku s nadmořskou výškou. |
+| Hypsometrická rovnice | Určuje vztah mezi tlakovým rozdílem a výškovým rozdílem v atmosféře. |
 
 ## Metody přepočtu
 
@@ -38,7 +38,7 @@ Před studiem jednotlivých metod doporučujeme seznámit se také se základní
 |-----------------|---------------|
 | *(bude doplněno)* | |
 
-## Implementace v meteorologických systémech
+## Používané metody v praxi
 
 | Systém  | Použitá metoda |
 |---------|----------------|
