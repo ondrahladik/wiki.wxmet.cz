@@ -2,7 +2,7 @@
 title: Přepočet tlaku na hladinu moře
 description: 
 published: true
-date: 2026-08-05T10:25:42.188Z
+date: 2026-08-05T10:45:56.484Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-04T21:23:46.400Z
@@ -20,7 +20,7 @@ Tato sekce slouží jako rozcestník jednotlivých metod a referenčních tlaků
 
 Před studiem jednotlivých metod doporučujeme seznámit se také se základními fyzikálními principy, ze kterých většina výpočtů vychází.
 
-| Referenční tlak | Stručný popis |
+| Název           | Stručný popis |
 |-----------------|---------------|
 | Hydrostatická rovnice |         |
 | Barometrická rovnice  |         |
@@ -37,4 +37,12 @@ Před studiem jednotlivých metod doporučujeme seznámit se také se základní
 | Referenční tlak | Stručný popis |
 |-----------------|---------------|
 | *(bude doplněno)* | |
+
+## Implementace v meteorologických systémech
+
+| Systém  | Použitá metoda |
+|---------|----------------|
+| WXMET | *(bude doplněno)* |
+| ČHMÚ  | *(bude doplněno)* |
+| WMO   | *(bude doplněno)* |
 
