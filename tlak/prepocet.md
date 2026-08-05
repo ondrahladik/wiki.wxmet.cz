@@ -2,7 +2,7 @@
 title: Přepočet tlaku na hladinu moře
 description: 
 published: true
-date: 2026-08-05T10:48:11.694Z
+date: 2026-08-05T10:49:54.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-04T21:23:46.400Z
@@ -10,7 +10,7 @@ dateCreated: 2026-08-04T21:23:46.400Z
 
 # Přepočet tlaku na hladinu moře
 
-Atmosférický tlak se s rostoucí nadmořskou výškou snižuje. Aby bylo možné porovnávat hodnoty naměřené na meteorologických stanicích v různých nadmořských výškách, provádí se přepočet na společnou referenční úroveň – střední hladinu moře (MSL, *Mean Sea Level*).
+Atmosférický tlak se s rostoucí nadmořskou výškou snižuje. Aby bylo možné porovnávat hodnoty naměřené na meteorologických stanicích v různých nadmořských výškách, provádí se přepočet na společnou referenční úroveň ([střední hladinu moře](/ostatni/slovnik#msl)).
 
 Existuje několik metod přepočtu, které se liší použitými fyzikálními předpoklady, vstupními veličinami i přesností výsledku. Kromě samotných metod se používají také různé referenční tlaky, jejichž význam závisí na konkrétní oblasti použití, například v meteorologii nebo letectví.
 
